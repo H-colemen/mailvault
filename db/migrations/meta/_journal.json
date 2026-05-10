@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1778253028862,
+      "tag": "0000_abandoned_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778269836192,
+      "tag": "0001_melodic_drax",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1778310125305,
+      "tag": "0002_cuddly_viper",
+      "breakpoints": true
+    }
+  ]
+}
